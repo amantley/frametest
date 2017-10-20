@@ -19,6 +19,7 @@ int main()
 	printf("fork user 2nd pull request\n");
 	printf("make a change oct 20\n");
 	printf("make a change oct 20_2\n");
+	printf("rejectable pull request oct 20\n");
 
 	
 	return 0;
