@@ -26,6 +26,7 @@ int main()
 
 	printf("\ntesting reset of fork\n");
 	printf("\nupstream change after reset Oct 22\n");
+	printf("\nPull request to reject after upstream change Oct 22\n");
 
 
 
