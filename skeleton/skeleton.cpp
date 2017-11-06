@@ -27,7 +27,7 @@ int main()
 	printf("\ntesting reset of fork\n");
 	printf("\nupstream change after reset Oct 22\n");
 	printf("\nPile on after rejected pull request Oct 22\n");
-	printf("\nbranch change oct 22\n");
+	printf("\nbranch change nov 6\n");
 
 
 
